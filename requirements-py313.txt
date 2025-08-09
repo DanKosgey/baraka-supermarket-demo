@@ -1,0 +1,7 @@
+streamlit==1.36.0
+pandas==2.2.3
+numpy==2.1.3
+plotly==5.24.1
+python-dateutil==2.9.0.post0
+# Allow latest tornado on 3.13
+
